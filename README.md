@@ -26,11 +26,11 @@ Aunque he empezado demasiado tarde, me gusta estudiar sobre programación todo l
 |cmd + k	|Elimina toda la línea de comando|
 
 Para crear una cita se emplea el símbolo >
-"La vida es como una computadora
+> "La vida es como una computadora
 La pantalla muestra lo que ocurre
-pero no explica por qué sucede" Friedrich Nietzsche
+pero no explica por qué sucede" Friedrich Nietzsche </S>
 
-Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi
+> Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi
 
 
 *** Para insertar un bloque de código se emplean "```"
