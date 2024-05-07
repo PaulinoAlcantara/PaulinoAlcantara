@@ -35,7 +35,7 @@ Un país, una civilización se puede juzgar por la forma en que trata a sus anim
 
 *** Para insertar un bloque de código se emplean "```"
 
-let casa = 0
+```` let casa = 0 ````
 
 
 Este es mi primer repositorio en GitHub y espero que sea útil para todos.
