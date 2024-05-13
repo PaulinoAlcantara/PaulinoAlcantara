@@ -1,17 +1,27 @@
+(https://github.com/PaulinoAlcantara/PaulinoAlcantara/edit/main/README.md)
+
 # Ejercicio **Markdown** de Paulino Alcántara.
   
-Soy un aficionado a la informática.
+## Estudiante del bootcamp de programaciòn.
 
-Aunque he empezado demasiado tarde, me gusta estudiar sobre programación todo lo que puedo.
+Hola, mi nombre es Paulino y aunque he empezado demasiado tarde, me gusta estudiar todo lo que puedo sobre programación y estoy aprendiendo de forma autodidacta, siguiendo los curso de profesionales en programación en youtube .
 
-###👌Comandos alias:
+No estudio tanto para mi desarroyo profesional ya que en mi trabajo actual no es necesario, pero si estudio para mi desarroyo personal.
+
+¡Saludos a todos!
+
+### [Enlace a github con mi ejercicio](https://github.com/PaulinoAlcantara/PaulinoAlcantara/edit/main/README.md)
+
+
+### **Comandos alias:**
 
 |Alias|	Comando|
 |-----|--------|
 |npmd	|npm rum dev|
 |npms	|npm start|
 
-###👌Comandos de atajos en la terminal
+
+### **Comandos de atajos en la terminal**
 |comando |descripción|
 |--------|-----------|
 |ctrl + c	|Detener comando actual|
@@ -25,7 +35,7 @@ Aunque he empezado demasiado tarde, me gusta estudiar sobre programación todo l
 |alt + d	|Eliminar una tabulación (retroceso)|
 |cmd + k	|Elimina toda la línea de comando|
 
-Para crear una cita se emplea el símbolo >
+Para crear una cita debemos emplear el símbolo >
 > "La vida es como una computadora
 > La pantalla muestra lo que ocurre
 > pero no explica por qué sucede"
@@ -34,19 +44,13 @@ Para crear una cita se emplea el símbolo >
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi
 
 
-*** Para insertar un bloque de código se emplean "```"
+*** Para insertar un bloque de código se emplearían "```"
 
 ```` let casa = 0 ````
 
 
-Este es mi primer repositorio en GitHub y espero que sea útil para todos.
+Este es mi primer ejercicio del bootcamp de __undefinedshell__ .
 
-En este repo se encuentran mis proyectos personales y algunos ejercicios realizados durante el curso de Introducción a la Program Me encanta aprender cosas nuevas.
 
-Si tienes alguna pregunta o deseas colaborar, estaré encantado de ayudarte.
 
-En este repositorio podrás encontrar mis proyectos personales, así como también recursos y tutoriales relacionados con la programación.
-
-En este repositorio podrás encontrar mis proyectos personales realizados en JavaScript, HTML5 y CSS3.
-
-¡Gracias!
+)
