@@ -52,5 +52,3 @@ Para crear una cita debemos emplear el símbolo >
 Este es mi primer ejercicio del bootcamp de __undefinedshell__ .
 
 
-
-)
