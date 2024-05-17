@@ -1,47 +1,26 @@
-(https://github.com/PaulinoAlcantara/PaulinoAlcantara/edit/main/README.md)
+# Acerca de **Paulino Alcántara**.
 
-# Ejercicio **Markdown** de Paulino Alcántara.
-  
-## Estudiante del bootcamp de programaciòn.
+## Estudiante del bootcamp de programación **undefinedshell**.
 
-Hola, mi nombre es Paulino y aunque he empezado demasiado tarde, me gusta estudiar todo lo que puedo sobre programación y estoy aprendiendo de forma autodidacta, siguiendo los curso de profesionales en programación en youtube .
+Hola, mi nombre es Paulino y aunque he empezado demasiado tarde, me gusta estudiar todo lo que puedo sobre programación.
+Estoy aprendiendo de forma autodidacta siguiendo los curso en programación de profesionales en youtube, como es el caso del bootcamp de Guillermo de Undefinedshell.
 
-No estudio tanto para mi desarroyo profesional ya que en mi trabajo actual no es necesario, pero si estudio para mi desarroyo personal.
+No estudio tanto para mi desarroyo profesional, ya que en mi trabajo actual no es necesario, pero sí para __mi conocimiento y desarroyo personal__.
 
-¡Saludos a todos!
-
-### [Enlace a github con mi ejercicio](https://github.com/PaulinoAlcantara/PaulinoAlcantara/edit/main/README.md)
+¡Saludos a todos!.
 
 
-### **Comandos alias:**
+## Mi primer objetivo... **aprender frontend**
+1.- Crear una página web en HTML
 
-|Alias|	Comando|
-|-----|--------|
-|npmd	|npm rum dev|
-|npms	|npm start|
+2.- Darle estilos con CSS
+
+3.- Manejarlo con JavaScript
 
 
-### **Comandos de atajos en la terminal**
-|comando |descripción|
-|--------|-----------|
-|ctrl + c	|Detener comando actual|
-|ctrt + u	|Borrar la linea actual|
-|ctrl + r	|Buscar comando usado anteriormente|
-|ctrl + w	|Permite eliminar la última palabra de los comandos que estamos escribiendo|
-|ctrl + a	|Nos permite movernos al inicio de la linea de comando|
-|ctrl + e	|Nos permite movernos al final de la linea de comandos|
-|alt + f	|Añadir una tabulación (espacio)|
-|alt + d	|Eliminar una tabulación (espacio)|
-|alt + d	|Eliminar una tabulación (retroceso)|
-|cmd + k	|Elimina toda la línea de comando|
-
-Para crear una cita debemos emplear el símbolo >
-> "La vida es como una computadora
-> La pantalla muestra lo que ocurre
-> pero no explica por qué sucede"
-> > Friedrich Nietzsche.
-
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi
+>"Si no puedes volar, __corre__; si no puedes correr, __camina__; si no puedes caminar, __gatea__, pero __sigue avanzando__ hacia tu meta". 
+>
+>**Martin Luther King**.
 
 
 *** Para insertar un bloque de código se emplearían "```"
