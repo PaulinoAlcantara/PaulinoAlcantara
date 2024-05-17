@@ -23,11 +23,6 @@ No estudio tanto para mi desarroyo profesional, ya que en mi trabajo actual no e
 >**Martin Luther King**.
 
 
-*** Para insertar un bloque de código se emplearían "```"
 
-```` let casa = 0 ````
-
-
-Este es mi primer ejercicio del bootcamp de __undefinedshell__ .
 
 
