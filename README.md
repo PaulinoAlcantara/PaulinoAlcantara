@@ -1,9 +1,12 @@
 # Acerca de **Paulino Alcántara**.
 
-## Estudiante del bootcamp de programación **undefinedshell**.
+## Estudiante del bootcamp de programación __Undefinedshell__ .
 
-Hola, mi nombre es Paulino y aunque he empezado demasiado tarde, me gusta estudiar todo lo que puedo sobre programación.
-Estoy aprendiendo de forma autodidacta siguiendo los curso en programación de profesionales en youtube, como es el caso del bootcamp de Guillermo de Undefinedshell.
+Hola, mi nombre es Paulino Alcántara y soy de España. 
+
+Aunque he empezado demasiado tarde, mi gran afición es estudiar todo lo que puedo sobre programación.
+
+Estoy aprendiendo de forma autodidacta siguiendo los curso en programación de profesionales en youtube, como es el caso del bootcamp de **Guillermo** de __Undefinedshell__ .
 
 No estudio tanto para mi desarroyo profesional, ya que en mi trabajo actual no es necesario, pero sí para __mi conocimiento y desarroyo personal__.
 
